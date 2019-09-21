@@ -1,0 +1,12 @@
+.navbar {
+    margin-bottom: 70px;
+}
+
+.delete-form{
+    display: inline;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
